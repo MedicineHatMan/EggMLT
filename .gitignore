@@ -1,0 +1,13 @@
+emalt.exe
+emalt.exe.manifest
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+build/
+
+.vs/
+__pycache__/
+*.pyc
+imgui.ini
